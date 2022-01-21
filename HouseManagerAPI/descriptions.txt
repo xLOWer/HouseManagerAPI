@@ -1,0 +1,15 @@
+﻿Сущности:
+	наименование		контроллер			путь
+	Пользователь		User				/houseManagerApi/users/
+	Собственник			Owner				/houseManagerApi/owners/
+	Помещение			Room				/houseManagerApi/rooms/
+	Заявка				ServiceRequest		/houseManagerApi/service-requests/
+	
+общие пути в api:
+	[протокол]://[домен]:[порт]/[api]/[контроллер]/...
+	/houseManagerApi/users/
+
+
+Функции API (путь /houseManagerApi/)
+	Пользователь (путь /user/)
+			
